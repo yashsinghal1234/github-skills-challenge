@@ -1,16 +1,14 @@
-# GitHub Challenge
+# Test with Actions
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey there!
+Hey yashsinghal1234!
 
-Your challenge is ready.
-Follow the instructions provided for this challenge and complete the required tasks in this repository.
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
-Make sure your work is committed and pushed to your repository before submission.
+Remember, it's self-paced so feel free to take a break! ☕️
 
-Good luck!
-
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/yashsinghal1234/github-skills-challenge/issues/2)
 
 ---
 
