@@ -31,7 +31,7 @@ jobs:
           python -m pip install pytest==8.4.1 coverage==7.9 pytest-cov==6.2.1
 
       - name: Run tests and generate coverage details
-        run: pytest --cov=src
+        run: python -m pytest --cov=src
 
       - name: Publish coverage comment
         uses: py-cov-action/python-coverage-comment-action@v3
